@@ -64,8 +64,8 @@
 ### 📈 GitHub Stats & Languages
 
 <p align="left">
-	<img src="https://github-readme-stats.vercel.app/api?username=Yosores04&show_icons=true&theme=radical" height="150"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yosores04&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats-yosores04.vercel.app/api?username=Yosores04&show_icons=true&theme=radical" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-yosores04.vercel.app/api/top-langs/?username=Yosores04&layout=compact&theme=radical" height="150" alt="Top Languages"/>
 </p>
 
 ### 📫 Contact
