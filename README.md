@@ -17,26 +17,48 @@
 
 ### 🚀 About Me
 
+### 🚀 About Me
+
 - 💡 Building solutions for real-world problems
 - 🌱 Currently learning: <b>TypeScript, React, Azure, and DevOps</b>
-- 🛠️ Main stack: <b>JavaScript, Python, Node.js, React, HTML/CSS</b>
+- 🛠️ <b>Main stack:</b> <b>PHP (Laravel, Blade), Vue.js, JavaScript (TypeScript, React, Node.js, Express), Python, HTML, CSS, MySQL, MongoDB, C, Azure, Git</b>
 - 📚 Always exploring new tech and frameworks
 - 🤝 Open to collaboration and mentoring
 
-### 📌 Featured Projects
+### 🧠 Systems Development
 
-<!-- Replace these with your actual repo links and descriptions -->
+- [COT-Alumni-Tracking-System](https://github.com/Yosores04/COT-Alumni-Tracking-System)  
+  <sub>Stack: PHP (Laravel), Blade, HTML, CSS, JavaScript, MySQL</sub>
+- [AlumniTrackingSystem](https://github.com/Yosores04/AlumniTrackingSystem)  
+  <sub>Stack: PHP (Laravel), Blade, HTML, CSS, JavaScript, MySQL</sub>
+- [Student-Information-System](https://github.com/Yosores04/Student-Information-System)  
+  <sub>Stack: PHP (Laravel), Blade, HTML, CSS, JavaScript, MySQL</sub>
+- [Task-Management-System](https://github.com/Yosores04/Task-Management-System)  
+  <sub>Stack: JavaScript, HTML, CSS, Database integration (MySQL/MongoDB)</sub>
 
-- [Student Consultation Management Web Application with TF-IDF](https://github.com/Yosores04/Student-Consultation-Management-Web-Application-with-TF-IDF) - Smart student consultation system using NLP
-- [VertiGrow](https://github.com/Yosores04/VertiGrow) - IoT-based vertical farming project
-- [T79_Yosores_QueueActivity](https://github.com/Yosores04/T79_Yosores_QueueActivity) - Queue simulation and activity
-- [OOP Files](https://github.com/Yosores04/OOP-Files) - Object-oriented programming exercises
-- [MERN Mentoring](https://github.com/Yosores04/MERN-Mentoring) - MERN stack mentoring resources
+### 🌐 Web Development
+
+- [E-Commerce-Platform](https://github.com/Yosores04/E-Commerce-Platform)  
+  <sub>Stack: Vue.js, JavaScript, HTML, CSS, REST API integration</sub>
+- [Portfolio-Generator](https://github.com/Yosores04/Portfolio-Generator)  
+  <sub>Stack: JavaScript, HTML, CSS</sub>
+
+### ⚙ Backend / API
+
+- [northwind-api](https://github.com/Yosores04/northwind-api)  
+  <sub>Stack: JavaScript, Node.js, Express, REST API</sub>
+
+### 📚 Academic / Practice
+
+- [IPT2-Act-Repo](https://github.com/Yosores04/IPT2-Act-Repo)  
+  <sub>Stack: HTML, CSS, JavaScript</sub>
+- [Hello-World](https://github.com/Yosores04/Hello-World)  
+  <sub>Stack: C</sub>
 
 ### 🧰 Tech Stack
 
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,azure,git"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,blade,vue,js,ts,react,nodejs,express,python,html,css,mysql,mongodb,c,azure,git"/>
 </p>
 
 ### 📈 GitHub Stats & Languages
