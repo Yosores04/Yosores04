@@ -37,8 +37,8 @@
 
 ### 📫 How to reach me
 
-- Email: <b>your.email@example.com</b>
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Email: <b>joshua.yosores@gmail.com</b>
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/joshua-yosores/)
 
 ---
 
