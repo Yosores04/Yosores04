@@ -1,47 +1,58 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Hi%20there!%20I'm%20Yosores04%20👋&fontSize=32&fontAlign=50&fontColor=fff"/>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Welcome%20to%20Yosores04's%20Profile!%20👋&fontSize=32&fontAlign=50&fontColor=fff"/>
 </div>
 
 <p align="center">
-	<b>Welcome to my GitHub profile!</b><br>
-	I'm passionate about software development, open source, and continuous learning.
+	<b>Hi, I'm Joshua Yosores!</b><br>
+	<i>Full Stack Developer | Cloud Enthusiast | Open Source Advocate</i>
 </p>
+
+---
+
+<div align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yosores04&theme=radical" height="150"/>
+</div>
 
 ---
 
 ### 🚀 About Me
 
-- 💻 I love building projects that solve real-world problems.
-- 🌱 Currently learning: <b>TypeScript, React, and Cloud Technologies</b>.
-- 🛠️ Main tech stack: <b>JavaScript, Python, Node.js, HTML/CSS</b>.
-- 📚 Always exploring new tools and frameworks.
-- 🤝 Open to collaboration on interesting projects.
+- 💡 Building solutions for real-world problems
+- 🌱 Currently learning: <b>TypeScript, React, Azure, and DevOps</b>
+- 🛠️ Main stack: <b>JavaScript, Python, Node.js, React, HTML/CSS</b>
+- 📚 Always exploring new tech and frameworks
+- 🤝 Open to collaboration and mentoring
+
+### 📌 Featured Projects
+
+<!-- Replace these with your actual repo links and descriptions -->
+
+- [Student Consultation Management Web Application with TF-IDF](https://github.com/Yosores04/Student-Consultation-Management-Web-Application-with-TF-IDF) - Smart student consultation system using NLP
+- [VertiGrow](https://github.com/Yosores04/VertiGrow) - IoT-based vertical farming project
+- [T79_Yosores_QueueActivity](https://github.com/Yosores04/T79_Yosores_QueueActivity) - Queue simulation and activity
+- [OOP Files](https://github.com/Yosores04/OOP-Files) - Object-oriented programming exercises
+- [MERN Mentoring](https://github.com/Yosores04/MERN-Mentoring) - MERN stack mentoring resources
 
 ### 🧰 Tech Stack
 
 <p align="left">
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+	<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,azure,git"/>
 </p>
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Languages
 
 <p align="left">
 	<img src="https://github-readme-stats.vercel.app/api?username=Yosores04&show_icons=true&theme=radical" height="150"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yosores04&layout=compact&theme=radical" height="150"/>
 </p>
 
-### 📫 How to reach me
+### 📫 Contact
 
 - Email: <b>joshua.yosores@gmail.com</b>
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/joshua-yosores/)
+- LinkedIn: [Joshua Yosores](https://www.linkedin.com/in/joshua-yosores/)
 
 ---
 
-<p align="center">
+<div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
-</p>
+</div>
