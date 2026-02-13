@@ -58,7 +58,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,react,nodejs,express,python,html,css,mysql,mongodb,c,azure,git"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,react,nodejs,express, java, python,html,css,mysql,mongodb,c,azure,git"/>
 </p>
 
 ### 📈 GitHub Stats & Languages
