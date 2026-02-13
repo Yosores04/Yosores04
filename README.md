@@ -70,7 +70,7 @@
 
 ### 📫 Contact
 
-- Email: <b>joshua.yosores@gmail.com</b>
+- Email: <b>2201103613@student.buksu.edu.ph</b>
 - LinkedIn: [Joshua Yosores](https://www.linkedin.com/in/joshua-yosores/)
 
 ---
