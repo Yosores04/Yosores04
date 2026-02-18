@@ -21,7 +21,7 @@
 
 - 💡 Building solutions for real-world problems
 - 🌱 Currently learning: <b>TypeScript, React, Azure, and DevOps</b>
-- 🛠️ <b>Main stack:</b> <b>PHP (Laravel, Blade), Vue.js, JavaScript (TypeScript, React, Node.js, Express), Python, HTML, CSS, MySQL, MongoDB, C, Azure, Git</b>
+- 🛠️ <b>Main stack:</b> <b>PHP (Laravel, Blade), Vue.js, JavaScript (TypeScript, React, Node.js, Express), Java, Python, HTML, CSS, MySQL, MongoDB, C, C++, Azure, Git</b>
 - 📚 Always exploring new tech and frameworks
 - 🤝 Open to collaboration and mentoring
 
@@ -58,7 +58,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,react,nodejs,express,java,python,html,css,mysql,mongodb,c,azure,git"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,react,nodejs,express,java,python,html,css,mysql,mongodb,c,c++,azure,git"/>
 </p>
 
 ### 📈 GitHub Stats & Languages
